@@ -1,0 +1,12 @@
+
+{
+    "name": "GRAND",
+    "symbol": "GRD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": 
+    "website": " https://grandtime.org/ru/",
+    "explorer": "https://etherscan.io/address/0x4911f8cebd546ef805e81dd0b0084a90d11a7688 ",
+    "status": "active",
+    "id":0x4911F8CebD546ef805E81Dd0B0084A90D11a7688 "
+}
